@@ -1833,7 +1833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
 			(at 192.278 132.588 0)
 			(effects
 				(font
